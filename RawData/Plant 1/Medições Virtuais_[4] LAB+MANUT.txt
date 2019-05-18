@@ -1,0 +1,43 @@
+Relatorio de Energia Eletrica	
+Equipamento: 	Medições Virtuais	
+Medição: 	[4] LAB+MANUT	
+Relatorio: 	Consumo Ativo	
+Data Inicial: 	02/04/2019	
+Data Final: 	11/04/2019	
+
+
+Resumo	
+Consumo kWh	
+Acumulado Ponta	5468.5	
+Acumulado Fora Ponta Ind	38003.0	
+Acumulado Fora Ponta Cap	10433.4	
+Acumulado Fora Ponta (Ind+Cap)	48436.4	
+Acumulado Total	53904.8	
+
+
+	02/04/2019		03/04/2019		04/04/2019		05/04/2019		06/04/2019		07/04/2019		08/04/2019		09/04/2019		10/04/2019		11/04/2019		
+Hora	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo		
+01:30	183.6	Fora Ponta Cap	185.6	Fora Ponta Cap	189.7	Fora Ponta Cap	191.6	Fora Ponta Cap	192.6	Fora Ponta Cap	177.5	Fora Ponta Cap	161.0	Fora Ponta Cap	191.0	Fora Ponta Cap	165.2	Fora Ponta Cap	173.5	Fora Ponta Cap		
+02:30	186.5	Fora Ponta Cap	185.8	Fora Ponta Cap	189.6	Fora Ponta Cap	185.1	Fora Ponta Cap	196.1	Fora Ponta Cap	180.0	Fora Ponta Cap	167.8	Fora Ponta Cap	189.9	Fora Ponta Cap	162.4	Fora Ponta Cap	174.1	Fora Ponta Cap		
+03:30	186.6	Fora Ponta Cap	180.7	Fora Ponta Cap	193.7	Fora Ponta Cap	190.2	Fora Ponta Cap	194.1	Fora Ponta Cap	90.7	Ponta	173.5	Fora Ponta Cap	188.3	Fora Ponta Cap	167.5	Fora Ponta Cap	173.8	Fora Ponta Cap		
+04:30	182.9	Fora Ponta Cap	179.0	Fora Ponta Cap	194.6	Fora Ponta Cap	185.6	Fora Ponta Cap	191.2	Fora Ponta Cap	0.0	Ponta	174.4	Fora Ponta Cap	185.3	Fora Ponta Cap	160.7	Fora Ponta Cap	174.2	Fora Ponta Cap		
+05:30	190.8	Fora Ponta Cap	178.5	Fora Ponta Cap	195.6	Fora Ponta Cap	186.8	Fora Ponta Cap	192.2	Fora Ponta Cap	0.0	Fora Ponta Cap	130.3	Fora Ponta Cap	189.5	Fora Ponta Cap	167.1	Fora Ponta Cap	180.8	Fora Ponta Cap		
+06:30	194.5	Fora Ponta Ind	196.5	Fora Ponta Ind	212.9	Fora Ponta Ind	207.3	Fora Ponta Ind	210.0	Fora Ponta Ind	71.9	Fora Ponta Ind	161.1	Fora Ponta Ind	199.3	Fora Ponta Ind	174.9	Fora Ponta Ind	193.0	Fora Ponta Ind		
+07:30	206.4	Fora Ponta Ind	204.0	Fora Ponta Ind	223.3	Fora Ponta Ind	214.2	Fora Ponta Ind	211.8	Fora Ponta Ind	180.0	Fora Ponta Ind	205.8	Fora Ponta Ind	218.4	Fora Ponta Ind	189.3	Fora Ponta Ind	204.5	Fora Ponta Ind		
+08:30	251.8	Fora Ponta Ind	265.3	Fora Ponta Ind	281.8	Fora Ponta Ind	267.9	Fora Ponta Ind	214.2	Fora Ponta Ind	186.5	Fora Ponta Ind	271.5	Fora Ponta Ind	255.8	Fora Ponta Ind	218.5	Fora Ponta Ind	235.8	Fora Ponta Ind		
+09:30	272.3	Fora Ponta Ind	287.0	Fora Ponta Ind	304.1	Fora Ponta Ind	291.9	Fora Ponta Ind	219.9	Fora Ponta Ind	184.2	Fora Ponta Ind	270.6	Fora Ponta Ind	239.5	Fora Ponta Ind	235.2	Fora Ponta Ind	248.5	Fora Ponta Ind		
+10:30	274.9	Fora Ponta Ind	293.5	Fora Ponta Ind	313.5	Fora Ponta Ind	300.6	Fora Ponta Ind	225.6	Fora Ponta Ind	186.0	Fora Ponta Ind	268.6	Fora Ponta Ind	239.4	Fora Ponta Ind	247.9	Fora Ponta Ind	248.6	Fora Ponta Ind		
+11:30	281.8	Fora Ponta Ind	302.6	Fora Ponta Ind	354.5	Fora Ponta Ind	318.2	Fora Ponta Ind	225.9	Fora Ponta Ind	187.1	Fora Ponta Ind	262.7	Fora Ponta Ind	235.0	Fora Ponta Ind	250.6	Fora Ponta Ind	273.5	Fora Ponta Ind		
+12:30	269.9	Fora Ponta Ind	288.4	Fora Ponta Ind	333.9	Fora Ponta Ind	287.2	Fora Ponta Ind	217.0	Fora Ponta Ind	179.1	Fora Ponta Ind	221.9	Fora Ponta Ind	88.4	Fora Ponta Ind	234.9	Fora Ponta Ind	243.9	Fora Ponta Ind		
+13:30	277.7	Fora Ponta Ind	302.4	Fora Ponta Ind	329.9	Fora Ponta Ind	264.5	Fora Ponta Ind	238.2	Fora Ponta Ind	173.7	Fora Ponta Ind	248.6	Fora Ponta Ind	166.2	Fora Ponta Ind	237.9	Fora Ponta Ind	261.6	Fora Ponta Ind		
+14:30	308.8	Fora Ponta Ind	330.4	Fora Ponta Ind	354.7	Fora Ponta Ind	304.5	Fora Ponta Ind	240.1	Fora Ponta Ind	171.2	Fora Ponta Ind	254.4	Fora Ponta Ind	234.5	Fora Ponta Ind	261.2	Fora Ponta Ind	274.5	Fora Ponta Ind		
+15:30	319.2	Fora Ponta Ind	331.2	Fora Ponta Ind	367.5	Fora Ponta Ind	337.8	Fora Ponta Ind	243.2	Fora Ponta Ind	169.4	Fora Ponta Ind	262.8	Fora Ponta Ind	267.1	Fora Ponta Ind	271.9	Fora Ponta Ind	281.1	Fora Ponta Ind		
+16:30	340.0	Fora Ponta Ind	304.4	Fora Ponta Ind	360.6	Fora Ponta Ind	327.3	Fora Ponta Ind	239.3	Fora Ponta Ind	167.3	Fora Ponta Ind	270.4	Fora Ponta Ind	277.7	Fora Ponta Ind	285.2	Fora Ponta Ind	290.7	Fora Ponta Ind		
+17:30	313.2	Fora Ponta Ind	320.7	Fora Ponta Ind	358.2	Fora Ponta Ind	316.9	Fora Ponta Ind	232.7	Fora Ponta Ind	169.6	Fora Ponta Ind	271.4	Fora Ponta Ind	261.9	Fora Ponta Ind	272.3	Fora Ponta Ind	292.7	Fora Ponta Ind		
+18:30	260.5	Ponta	267.6	Ponta	307.7	Ponta	271.7	Ponta	220.0	Fora Ponta Ind	167.5	Fora Ponta Ind	231.7	Ponta	209.5	Ponta	229.8	Ponta	246.4	Ponta		
+19:30	239.7	Ponta	257.9	Ponta	261.3	Ponta	241.5	Ponta	185.8	Fora Ponta Ind	164.7	Fora Ponta Ind	224.6	Ponta	206.9	Ponta	210.4	Ponta	232.2	Ponta		
+20:30	217.1	Ponta	233.4	Ponta	242.3	Ponta	214.7	Ponta	181.2	Fora Ponta Ind	167.7	Fora Ponta Ind	203.7	Ponta	177.8	Ponta	194.4	Ponta	218.2	Ponta		
+21:30	234.2	Fora Ponta Ind	240.8	Fora Ponta Ind	253.0	Fora Ponta Ind	238.6	Fora Ponta Ind	178.5	Fora Ponta Ind	167.1	Fora Ponta Ind	220.7	Fora Ponta Ind	204.9	Fora Ponta Ind	212.4	Fora Ponta Ind	232.7	Fora Ponta Ind		
+22:30	228.6	Fora Ponta Ind	229.2	Fora Ponta Ind	231.5	Fora Ponta Ind	233.2	Fora Ponta Ind	179.4	Fora Ponta Ind	171.4	Fora Ponta Ind	213.4	Fora Ponta Ind	191.6	Fora Ponta Ind	204.9	Fora Ponta Ind	227.2	Fora Ponta Ind		
+23:30	219.1	Fora Ponta Ind	216.4	Fora Ponta Ind	214.9	Fora Ponta Ind	227.1	Fora Ponta Ind	174.5	Fora Ponta Ind	176.7	Fora Ponta Ind	204.6	Fora Ponta Ind	180.2	Fora Ponta Ind	205.5	Fora Ponta Ind	223.4	Fora Ponta Ind		
+00:30	203.0	Fora Ponta Cap	207.3	Fora Ponta Cap	210.9	Fora Ponta Cap	223.8	Fora Ponta Cap	178.1	Fora Ponta Cap	169.6	Fora Ponta Cap	201.5	Fora Ponta Cap	180.5	Fora Ponta Cap	191.4	Fora Ponta Cap	212.6	Fora Ponta Cap		

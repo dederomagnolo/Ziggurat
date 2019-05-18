@@ -1,0 +1,43 @@
+Relatorio de Energia Eletrica	
+Equipamento: 	GATE_B	
+Medição: 	[6] SE1 MBU V-TRAFO 3	
+Relatorio: 	Consumo Ativo	
+Data Inicial: 	02/04/2019	
+Data Final: 	11/04/2019	
+
+
+Resumo	
+Consumo kWh	
+Acumulado Ponta	-	
+Acumulado Fora Ponta Ind	-	
+Acumulado Fora Ponta Cap	-	
+Acumulado Fora Ponta (Ind+Cap)	-	
+Acumulado Total	-	
+
+
+	02/04/2019		03/04/2019		04/04/2019		05/04/2019		06/04/2019		07/04/2019		08/04/2019		09/04/2019		10/04/2019		11/04/2019		
+Hora	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo	Demanda(kWh)	Periodo		
+00:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+01:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+02:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+03:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+04:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+05:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+06:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+07:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+08:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+09:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+10:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+11:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+12:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+13:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+14:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+15:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+16:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+17:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+18:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+19:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+20:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+21:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+22:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		
+23:00	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro	0.0	Sem Registro		

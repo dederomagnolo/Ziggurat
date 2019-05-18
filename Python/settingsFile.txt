@@ -1,0 +1,5 @@
+C:/Users/debora.romagnolo/Desktop/Ziggurat/RawData
+C:/Users/debora.romagnolo/Desktop/Ziggurat/Name Settings/plant1.txt
+C:/Users/debora.romagnolo/Desktop/Ziggurat/Name Settings/plant2.txt
+C:/Users/debora.romagnolo/Desktop/Ziggurat/Python/workshopTags.txt
+C:/Users/debora.romagnolo/Desktop/Ziggurat/Results

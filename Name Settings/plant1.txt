@@ -1,0 +1,35 @@
+GATE MED 2_[0] DISP..txt
+GATE MED 2_[10] SE MOTORES - LABORATORIOS.txt
+GATE MED 2_[11] COMPRESSOR TA 2000.txt
+GATE MED 2_[1] DISP..txt
+GATE MED 2_[2] COMPRESSOR.txt
+GATE MED 2_[3] SE MOTORES.txt
+GATE MED 2_[4] LAB 1.txt
+GATE MED 2_[5] LAB 2.txt
+GATE MED 2_[6] LAB 3.txt
+GATE MED 2_[7] LAB 4.txt
+GATE MED 2_[8] GERAL LABORATORIOS.txt
+GATE MED 2_[9] DISP..txt
+Medições Virtuais_[0] COMPRESSORES F1 E MOTORES.txt
+Medições Virtuais_[10] FUNDIÇÃO 1- COMPRESSOR.txt
+Medições Virtuais_[11] F1 - FORNOS.txt
+Medições Virtuais_[12] F2 - FORNOS.txt
+Medições Virtuais_[1] COMPRESSORES F2.txt
+Medições Virtuais_[2] LABORATÓRIOS.txt
+Medições Virtuais_[3] MBU1.txt
+Medições Virtuais_[4] LAB+MANUT.txt
+Medições Virtuais_[5] MOTORES+COMPRESSORES.txt
+Medições Virtuais_[6] MBU2.txt
+Medições Virtuais_[7] MOTORES.txt
+Medições Virtuais_[8] FUNDIÇÃO 1.txt
+Medições Virtuais_[9] FUNDIÇÃO 2.txt
+SMART BASE 1_[0] CIRCUITO 1.txt
+SMART BASE 1_[1] CIRCUITO 1-RETAGUARDA.txt
+SMART BASE 1_[2] CIRCUITO 2.txt
+SMART BASE 1_[3] CIRCUITO 2-RETAGUARDA.txt
+SMART BASE 1_[4] CONTROLE GERAL.txt
+SMART BASE 1_[5] FUNDIÇÃO 1.txt
+SMART BASE 1_[6] FUNDIÇÃO 2.txt
+SMART BASE 1_[7] MANUT E FERRAMENTARIA.txt
+SMART BASE 1_[8] FORÇA ELETRO MOTRIZ FUND. 1.txt
+SMART BASE 1_[9] FORÇA ELETRO MOTRIZ FUND. 2.txt

@@ -1,0 +1,43 @@
+Relatorio de Energia Eletrica	
+Equipamento: 	SMART BASE 1	
+Medição: 	[3] CIRCUITO 2-RETAGUARDA	
+Relatorio: 	Consumo Ativo	
+Data Inicial: 	02/04/2019	
+Data Final: 	11/04/2019	
+
+
+Resumo	
+Consumo kWh	
+Acumulado Ponta	-	
+Acumulado Fora Ponta Ind	-	
+Acumulado Fora Ponta Cap	-	
+Acumulado Fora Ponta (Ind+Cap)	-	
+Acumulado Total	-	
+
+
+	02/04/2019		03/04/2019		04/04/2019		05/04/2019		06/04/2019		07/04/2019		08/04/2019		09/04/2019		10/04/2019		11/04/2019		
+Hora	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo	Consumo(kWh)	Periodo		
+01:00	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap		
+02:00	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap		
+03:00	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap		
+04:00	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Ponta	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap		
+05:00	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap		
+06:00	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap	0.0	Fora Ponta Cap		
+07:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+08:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+09:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+10:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+11:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+12:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+13:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+14:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+15:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+16:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+17:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+18:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+19:00	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Ponta		
+20:00	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Ponta		
+21:00	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Ponta	0.0	Ponta	0.0	Ponta	0.0	Ponta		
+22:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+23:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		
+00:00	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind	0.0	Fora Ponta Ind		

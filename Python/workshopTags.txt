@@ -1,0 +1,29 @@
+PI - Compressor
+PI - Laboratórios
+PI - Manutenção
+PI - MBU-1 (F1 - Fornos)
+PI - MBU-1 (F1 - F. Eletromotriz)
+PI - MBU-1 (F1)
+PI - MBU-1 (F2 - Fornos)
+PI - MBU-1 (F2 - F. Eletromotriz)
+PI - MBU-1 (F2)
+PI - MBU-1 Total
+PI - MBU-2
+PI - Total (com Fundição)
+PI - Total (sem Fundição)
+PII - Administração
+PII - Compressor
+PII - MBU-3 MBU-3 USIN
+PII - MBU-3 MONT. MBU-3 / P.FINAL
+PII - MBU-3 PIT III
+PII - MBU-3 Total
+PII - MBU-4
+PII - MBU-5 MBU-5 USIN. DESBASTE RG / PIT NOVO
+PII - MBU-5 MONT. / USIN TP / P. FINAL / U.C.
+PII - MBU-5 PIT VELHO
+PII - MBU-5 Total
+PII - RH
+PII - Total
+Total - PII + PI (com Fundição)
+Total - PII + PI (sem Fundição)
+
